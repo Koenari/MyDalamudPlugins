@@ -14,7 +14,7 @@
         "DalamudApiLevel": 5,
         "LoadPriority": 0,
         "IconUrl": "https://raw.githubusercontent.com/Koenari/HimbeertoniRaidTool/master/images/icon.png",
-        "Punchline": "All you need for Raiding"
+        "Punchline": "All you need for Raiding",
         "IsTestingExclusive": "False",
         "DownloadLinkInstall": "https://raw.githubusercontent.com/Koenari/MyDalamudPlugins/master/plugins/HimbeerToniRaidTool/latest.zip",
         "DownloadLinkTesting": "https://raw.githubusercontent.com/Koenari/MyDalamudPlugins/master/testing/HimbeerToniRaidTool/latest.zip",
