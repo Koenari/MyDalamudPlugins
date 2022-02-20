@@ -7,7 +7,7 @@ URL: `https://raw.githubusercontent.com/Koenari/MyDalamudPlugins/main/pluginmast
 
 |Plugin|Description|Precautions|
 |---|---|---|
-|HimbeertoniRaidTool|Prevents you from being kicked from the game due to inactivity|Early Access|
+|HimbeertoniRaidTool|A collection of useful tools for RaidGroups, including loot management|Early Access|
 ## Installation
 Credit to https://github.com/Eternita-S
 
