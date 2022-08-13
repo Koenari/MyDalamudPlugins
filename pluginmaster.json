@@ -3,13 +3,14 @@
         "Author": "Koenari",
         "Name": "Himbeertoni Raid Tool",
         "InternalName": "HimbeertoniRaidTool",
-        "AssemblyVersion": "0.2.0.11",
+        "AssemblyVersion": "0.2.1.12",
         "Description": "A collection of useful tools for RaidGroups, including loot management",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/Koenari/HimbeertoniRaidTool",
         "Tags": [
-            "raid",
-            "plugin"
+            "Raid",
+            "Loot",
+            "Equipment"
         ],
         "DalamudApiLevel": 6,
         "LoadPriority": 0,
