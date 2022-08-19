@@ -3,7 +3,7 @@
         "Author": "Koenari",
         "Name": "Himbeertoni Raid Tool",
         "InternalName": "HimbeertoniRaidTool",
-        "AssemblyVersion": "0.2.1.12",
+        "AssemblyVersion": "0.2.1.13",
         "Description": "A collection of useful tools for RaidGroups, including loot management",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/Koenari/HimbeertoniRaidTool",
@@ -14,6 +14,11 @@
         ],
         "DalamudApiLevel": 6,
         "LoadPriority": 0,
+        "ImageUrls": [
+            "https://raw.githubusercontent.com/Koenari/HimbeertoniRaidTool/master/OtherResources/Promotion/Loot Session.png",
+            "https://raw.githubusercontent.com/Koenari/HimbeertoniRaidTool/master/OtherResources/Promotion/Raid View.png",
+            "https://raw.githubusercontent.com/Koenari/HimbeertoniRaidTool/master/OtherResources/Promotion/Solo View.png"
+          ],
         "IconUrl": "https://raw.githubusercontent.com/Koenari/HimbeertoniRaidTool/master/images/icon.png",
         "Punchline": "All you need for Raiding",
         "IsTestingExclusive": "False",
