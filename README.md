@@ -1,3 +1,4 @@
+$\textcolor{red}{\textsf{This is discontinued for the foreseeable future. Everything is on the official Dalamud repo now.}}$
 # MyDalamudPlugins
 A collection of my Dalamud Plugins. Use this for early access of plugins or not officially released ones.
 
