@@ -8,7 +8,7 @@ URL: `https://raw.githubusercontent.com/Koenari/MyDalamudPlugins/main/pluginmast
 
 |Plugin|Description|Precautions|
 |---|---|---|
-|HimbeertoniRaidTool|A collection of useful tools for RaidGroups, including loot management <br><i>Currently implemetnted is the Lootmaster Window to show current gear of the whole group in comparision to BIS gear</i>|Early Access|
+|~~HimbeertoniRaidTool~~|~~A collection of useful tools for RaidGroups, including loot management <br><i>Currently implemetnted is the Lootmaster Window to show current gear of the whole group in comparision to BIS gear</i>~~||
 ## Installation
 Credit to https://github.com/Eternita-S
 
